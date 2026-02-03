@@ -1,0 +1,9 @@
+Test 1: T-test (Monthly Charges: Churn vs Non-Churn)
+Result: Statistically Significant difference
+
+Test 2: Correlation (Price vs Total Sales)
+Strong positive correlation observed
+
+Test 3: Regression (Price → Total Sales)
+R-squared indicates meaningful relationship
+
