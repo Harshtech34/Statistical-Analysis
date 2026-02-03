@@ -1,0 +1,25 @@
+STATISTICAL BUSINESS ANALYSIS REPORT
+
+Project Title: Week 7 Statistical Analysis for Data Science
+
+Dataset Used:
+- Sales Data (business_data.csv) – YOUR PROVIDED DATA
+- Customer Churn Data (customer_churn.csv)
+
+Methods Applied:
+- Descriptive Statistics
+- Histogram & Heatmap Visualization
+- T-test on Monthly Charges (Churn vs Non-Churn)
+- Correlation Analysis (Price vs Total Sales)
+- Linear Regression (Price → Total Sales)
+
+Key Findings:
+- Sales vary significantly across products and regions.
+- Price has a strong positive relationship with Total Sales.
+- Churned customers tend to have different Monthly Charges than non-churned customers.
+
+Conclusion:
+The statistical analysis provides insights into sales performance and customer behavior.
+
+Prepared by: [Harshal Chavan]
+
